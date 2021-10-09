@@ -9,6 +9,7 @@ yarn run build
 yarn run heap #for heap
 yarn run stack #for stack
 yarn run queue #for queue
+yarn run snailsort #for snail sort
 ```
 
 # Data Structures
@@ -20,6 +21,7 @@ yarn run queue #for queue
 # Algorithms
 
 - Reverse a number
+- Snail Sort
 
 ## More DS and Algorithms updated soon.
 

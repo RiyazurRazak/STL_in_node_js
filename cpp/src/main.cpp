@@ -3,6 +3,7 @@
 #include "../headers/stack/wrapper.h"
 #include "../headers/queue/wrapper.h"
 #include "../headers/reversenumber.h"
+#include "../headers/snailsort.h"
 
 Napi::Object InitAll(Napi::Env env, Napi::Object exports)
 {
@@ -10,6 +11,7 @@ Napi::Object InitAll(Napi::Env env, Napi::Object exports)
   StackWrapper::Init(env, exports);
   QueueWrapper::Init(env, exports);
   reversenumber::Init(env, exports);
+  snailsort::Init(env, exports);
   return exports;
 }
 

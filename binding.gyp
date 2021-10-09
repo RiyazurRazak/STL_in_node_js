@@ -13,6 +13,7 @@
             "cpp/src/queue/wrapper.cpp",
             "cpp/src/queue/queue.cpp",
             "cpp/src/reversenumber.cpp",
+            "cpp/src/snailsort.cpp",
           
         ],
         'include_dirs': [

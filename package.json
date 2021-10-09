@@ -10,7 +10,8 @@
     "heap" : "node js/Heap.js",
     "stack" : "node js/Stack.js",
     "queue" : "node js/Queue.js",
-    "reverse" : "node js/ReverseANumber.js"
+    "reverse" : "node js/ReverseANumber.js",
+    "snailsort" : "node js/SnailSort.js"
   },
   "keywords": [],
   "author": "riyazur razak",
